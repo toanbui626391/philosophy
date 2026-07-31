@@ -45,3 +45,15 @@ Stoicism is an ancient Greek philosophy founded in Athens by Zeno of Citium in t
 > "Very little is needed to make a happy life; it is all within yourself, in your way of thinking."
 
 *Reiterates that external possessions or status are not required for happiness; contentment is cultivated internally.*
+
+> "The best revenge is to be unlike him who performed the injury."
+
+*A reminder to maintain one's own virtue and character, rather than stooping to the level of those who wrong us.*
+
+> "Dwell on the beauty of life. Watch the stars, and see yourself running with them."
+
+*Encourages a cosmic perspective and an appreciation for the natural world, fostering a sense of connection with the universe.*
+
+> "Accept the things to which fate binds you, and love the people with whom fate brings you together, but do so with all your heart."
+
+*A profound expression of Amor Fati and the importance of deep, genuine human connection within the framework of our given circumstances.*
