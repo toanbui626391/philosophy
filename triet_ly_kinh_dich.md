@@ -74,11 +74,39 @@ Kinh Dịch hướng con người vào bên trong — tự chịu trách nhiệm
 
 ---
 
-## 6. Tổng Kết: Trí Tuệ Ứng Biến Trong Cuộc Sống Hiện Đại
+## 6. Đạo Học Tập & Rèn Luyện Bản Thân (Khai Mông & Tập Khảm)
+Kinh Dịch dành riêng những quẻ vô cùng quan trọng bàn về thái độ học tập và sự tôi luyện bản lĩnh thông qua sự kiên trì:
+
+### A. Quẻ Mông (Sơn Thủy Mông) — Đạo Của Sự Học Và Chủ Động Cầu Thị
+Quẻ Mông đại diện cho sự mông muội, chưa khai sáng. Muốn vượt qua sự thiếu hiểu biết, người học cần có thái độ đúng đắn:
+
+> **"Phỉ ngã cầu đồng mông, đồng mông cầu ngã"** *(Thoán Từ - Quẻ Mông)*  
+> *(Không phải ta đi tìm người mông muội để dạy, mà người mông muội phải chủ động tìm đến ta để học hỏi).*
+
+* **Bài học về sự học:** Sự học đòi hỏi **tính chủ động và sự tôn trọng tri thức**. Kiến thức không thể khiên cưỡng ép buộc; người học phải có khao khát tự thân và thái độ khiêm nhường cầu thị thì mới đạt được hanh thông.
+
+> **"Quân tử dĩ quả hành dục đức"** *(Đại Tượng Truyện - Quẻ Mông)*  
+> *(Người quân tử lấy việc kiên định, dứt quát trong hành động để nuôi dưỡng đạo đức và trí tuệ).*
+
+> **"Mông dĩ dưỡng chính, thánh công dã"** *(Thoán Truyện - Quẻ Mông)*  
+> *(Dùng sự học từ lúc còn ngây thơ để nuôi dưỡng tính chính trực, đó chính là công phu để tạo nên bậc thánh nhân).*
+
+### B. Quẻ Tập Khảm (Thuần Khảm) — Rèn Luyện Thường Xuyên Trong Nghịch Cảnh
+Chữ *"Tập"* (習) nghĩa là lặp đi lặp lại, ôn luyện liên tục. Quẻ Khảm tượng trưng cho nước và sự thử thách trùng điệp.
+
+> **"Quân tử dĩ thường đức hạnh, tập giáo sự"** *(Đại Tượng Truyện - Quẻ Tập Khảm)*  
+> *(Người quân tử lấy đó mà trau dồi đức hạnh thường xuyên như dòng nước chảy, liên tục ôn luyện công việc và kỹ năng).*
+
+* **Bài học về rèn luyện:** Giống như nước chảy đá mòn, sự thành thục và bản lĩnh bền bỉ không tự nhiên mà có. Nó là kết quả của quá trình **ôn luyện lặp đi lặp lại (Tập Khảm)**. Coi khó khăn là phòng gym của tâm trí để tôi luyện ý chí.
+
+---
+
+## 7. Tổng Kết: Trí Tuệ Ứng Biến Trong Cuộc Sống Hiện Đại
 
 > **"Vô bình bất bi, vô vãng bất phục"** *(Quẻ Thái)*  
 > *(Không có mặt phẳng nào không biến thành dốc, không có sự ra đi nào không quay trở lại).*
 
 Kinh Dịch không phải là mê tín hay bói toán nhảm nhí, mà là **bộ thuật toán cổ xưa về tư duy hệ thống và tâm lý học hành vi**. 
 
-Hiểu Kinh Dịch giúp ta có được thái độ sống bình thản trước biến động (*Biến Dịch*), biết cách giữ mình khi thành công (*Hàng long hữu hối*), biết kiên nhẫn tích lũy khi chưa gặp thời (*Tiềm long vật dụng*), và luôn giữ lòng khiêm nhường, tự cường để sống một cuộc đời ý nghĩa và trọn vẹn.
+Hiểu Kinh Dịch giúp ta có được thái độ sống bình thản trước biến động (*Biến Dịch*), biết cách giữ mình khi thành công (*Hàng long hữu hối*), biết kiên nhẫn tích lũy khi chưa gặp thời (*Tiềm long vật dụng*), chủ động cầu thị học hỏi (*Quẻ Mông*), kiên trì rèn luyện thói quen (*Tập Khảm*), và luôn giữ lòng khiêm nhường, tự cường để sống một cuộc đời ý nghĩa và trọn vẹn.
+
