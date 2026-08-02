@@ -57,3 +57,30 @@ Stoicism is an ancient Greek philosophy founded in Athens by Zeno of Citium in t
 > "Accept the things to which fate binds you, and love the people with whom fate brings you together, but do so with all your heart."
 
 *A profound expression of Amor Fati and the importance of deep, genuine human connection within the framework of our given circumstances.*
+
+## Quotes on Focus, Discipline & Self-Improvement
+
+> "Concentrate every minute like a Roman—like a man—on doing what's in front of you with precise and genuine seriousness, tenderly, willingly, with justice. And on freeing yourself from all other distractions."
+
+*Emphasizes single-minded presence and eliminating trivial distractions to execute the immediate task with total devotion and sincerity.*
+
+> "At dawn, when you have trouble getting out of bed, tell yourself: 'I have to go to work — as a human being. What do I have to complain of, if I'm going to do what I was born for?'"
+
+*A foundational morning mental model for overcoming laziness and aligning daily effort with higher purpose and duty.*
+
+> "Ask yourself at every moment, 'Is this necessary?'"
+
+*A brutal filter for productivity and focus: eliminating essential noise in thoughts, words, and actions to amplify what truly matters.*
+
+> "We should discipline ourselves in small things, and from these progress to things of greater value."
+
+*Highlights the compounding nature of micro-discipline—mastering small daily habits builds the foundation for extraordinary endurance.*
+
+> "Be tolerant with others and strict with yourself."
+
+*A key Stoic rule of personal excellence: holding yourself to uncompromising standards of character while offering empathy and grace to others.*
+
+> "Do not be distressed, do not despond or give up in despair, if now and again practice falls short of precept. Return to it again, satisfied if the greater part of your conduct is worthy of a man."
+
+*Encourages resilience over perfectionism in self-improvement—viewing stumbles not as defeat, but as invitations to return to disciplined practice.*
+
