@@ -71,6 +71,9 @@ graph TD
 3. When credit relationships become standardized, transferable, and third-party negotiable, **the credit receipt itself becomes money**.
 4. A paper banknote is essentially an IOU (Promissory Note). When you hold a dollar, you hold a standardized, transferable social token of credit against society.
 
+> [!NOTE]
+> **Scholarly Debate (Post-2020):** Graeber's "barter myth" thesis remains widely influential and cited as groundbreaking. However, post-2020 academic reception has become more nuanced. Critics (including economic historians at *EconLib*, *Cato*, and various peer-reviewed journals) argue his definition of barter is sometimes "tautological" and his framework can be polemical. The consensus view treats his anthropological insights as a valuable *complement* to economic analysis, rather than a wholesale replacement. The document presents Graeber's framework as one important lens among several.
+
 ---
 
 ## 3. How Modern Money is Actually Created (The Endogenous Money Reality)
@@ -175,7 +178,8 @@ In a landmark paper in the *Journal of Economic Theory*, Narayana Kocherlakota p
 ---
 
 ### C. Neuroeconomics & Behavioral Foundations
-* **Neuroimaging Research (Knutson et al., 2007; Camerer et al., 2005):** Brain scans show that receiving money activates the **nucleus accumbens and dopamine reward pathways** in the exact same manner as primary biological reinforcers (food, sugar, sex). Through lifelong cultural conditioning, the human nervous system processes abstract financial symbols as visceral survival rewards.
+* **Neuroimaging Research (Knutson et al., 2007; Camerer et al., 2005):** Brain imaging using the Monetary Incentive Delay (MID) task shows that **anticipation** of monetary reward consistently activates the **nucleus accumbens (NAcc)**, a core node of the mesolimbic reward system. This established the neural basis for why abstract financial tokens acquire motivational salience through conditioning.
+* **Current State of the Field (2023–2024):** The field has evolved beyond simple localization ("which spot lights up for money"). Contemporary neuroeconomics uses **multimodal approaches** combining fMRI with PET scanning (which can directly measure dopamine release) to build more mechanistic and network-based models of reward. Active scholarly debate continues over whether fMRI BOLD signals are a reliable proxy for actual dopamine dynamics, and researchers warn against oversimplifying complex brain-network activity to a single "money = reward" mapping.
 * **The "Money Illusion" (Shafir, Diamond, & Tversky, 1997):** Humans have an innate cognitive bias to think of money in nominal terms rather than real purchasing power terms, cementing our intuitive belief that money has inherent value.
 
 ---
@@ -196,11 +200,15 @@ graph LR
 ```
 
 1. **Cryptocurrencies & Trustless Consensus (Satoshi Nakamoto, 2008):**
-   * Bitcoin mechanized Kocherlakota’s *"Money is Memory"* without needing a central bank or government. The distributed blockchain ledger acts as the societal memory, replacing institutional trust with mathematical and cryptographic proof.
-2. **Central Bank Digital Currencies (CBDCs):**
-   * The Bank for International Settlements (BIS) and global central banks are designing digital cash—allowing citizens to hold direct digital claims on the central bank rather than private commercial bank deposits.
+   * Bitcoin mechanized Kocherlakota's *"Money is Memory"* without needing a central bank or government. The distributed blockchain ledger acts as the societal memory, replacing institutional trust with mathematical and cryptographic proof.
+2. **Central Bank Digital Currencies (CBDCs) — Retail vs. Wholesale:**
+   * **Retail CBDCs** make direct digital claims on the central bank available to the public — a digital equivalent of cash.
+   * **Wholesale CBDCs** (e.g., the **mBridge project**) enable near-instant, low-cost cross-border settlement between financial institutions, bypassing traditional correspondent banking. This area has seen the fastest real-world pilot deployment as of 2025.
 3. **The BIS "Money Flower" Taxonomy (Auer & Böhme, 2020):**
    * Classifies all money across four axes: (1) Issuer (Central bank vs. Private), (2) Form (Digital vs. Physical), (3) Accessibility (Widely accessible vs. Wholesale), and (4) Technology (Token-based vs. Account-based).
+4. **The Unified Ledger & Design Trilemma (BIS, 2024–2025):**
+   * The BIS Annual Economic Report (2025) proposes a **Unified Ledger** — a shared programmable platform where tokenized CBDCs coexist with tokenized commercial bank money and other assets, enabling atomic settlement and new financial applications.
+   * Current CBDC policy research is framed around a **Design Trilemma**: inevitable tensions between **(1) Privacy**, **(2) Financial Stability**, and **(3) Regulatory Compliance**. No architecture fully satisfies all three simultaneously.
 
 ---
 
@@ -249,3 +257,8 @@ Because paper money is an institutional and informational construct rather than 
    * Kiyotaki, Nobuhiro, & Wright, Randall. (1989). *"On Money as a Medium of Exchange"*. *Journal of Political Economy*, 97(4), 927–954.
    * Nakamoto, Satoshi. (2008). *"Bitcoin: A Peer-to-Peer Electronic Cash System"*.
    * Auer, R., & Böhme, R. (2020). *"The technology of retail central bank digital currency"*. *BIS Quarterly Review*.
+5. **Recent 2023–2025 Additions:**
+   * Mehrling, Perry. (2023). *"On Par: A Money View of Stablecoin"*. *BIS Working Papers*, No. 1160.
+   * Mehrling, Perry. (2023). *"Exorbitant Privilege? On the rise (and rise) of the global dollar system"*. Boston University/INET Working Paper.
+   * Bank for International Settlements. (2025). *BIS Annual Economic Report 2025*. BIS Publications.
+   * International Monetary Fund. (2025). *Virtual Handbook on Central Bank Digital Currency*. IMF Publications.
