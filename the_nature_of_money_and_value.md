@@ -78,15 +78,128 @@ graph TD
 
 ## 3. How Modern Money is Actually Created (The Endogenous Money Reality)
 
-One of the most persistent misconceptions—often still printed in outdated introductory economics textbooks—is the **Fractional Reserve / Money Multiplier model** (the idea that banks take customer cash deposits and lend out a fraction).
+One of the most persistent misconceptions—often still taught in introductory economics textbooks—is the **"Fractional Reserve / Money Multiplier" model** (the idea that banks wait for customer cash deposits and then lend out a fraction). 
 
-### The Bank of England & Central Bank Consensus (2014–Present)
-In 2014, the Bank of England published a landmark paper (*"Money creation in the modern economy"*, McLeay et al.):
+In reality, modern central banks and accounting standards confirm that **bank lending creates new deposits *ex nihilo* (out of nothing)**.
 
-* **Loans Create Deposits:** In the real modern economy, **commercial banks create money *ex nihilo* (out of nothing)** whenever they extend a loan.
-* When a bank approves a \$500,000 mortgage, it does not transfer money from someone else's vault. It writes a \$500,000 asset (loan contract) and simultaneously types a new \$500,000 credit into the borrower's deposit account.
-* **Over 95% of money in circulation today is private commercial bank credit**, not government-printed physical cash.
-* Physical paper bills are simply the **convertible cash token** into which you can temporarily crystallize your bank balance at an ATM.
+---
+
+### A. The Bank of England Landmark Clarification (2014)
+
+In the *Bank of England Quarterly Bulletin* (2014 Q1), central bank economists Michael McLeay, Amar Radia, and Ryland Thomas published the definitive institutional explanation (*"Money creation in the modern economy"*):
+
+> *"In the modern economy, most money takes the form of bank deposits. But how those bank deposits are created is often misunderstood: the principal way is through commercial banks making loans. **Whenever a bank makes a loan, it simultaneously creates a matching deposit in the borrower’s bank account, thereby creating new money.**"*  
+> — McLeay, Radia, & Thomas (Bank of England, 2014)
+
+> *"Commercial banks do not act simply as intermediaries, lending out deposits that savers place with them, nor do they 'multiply up' central bank money to create new loans and deposits."*  
+> — Bank of England (2014)
+
+```
+┌────────────────────────────────────────────────────────┬────────────────────────────────────────────────────────┐
+│               TEXTBOOK MYTH (INTERMEDIATION)           │                CENTRAL BANK REALITY (ENDOGENOUS)       │
+├────────────────────────────────────────────────────────┼────────────────────────────────────────────────────────┤
+│ 1. Saver deposits $10,000 cash in Bank A.              │ 1. Borrower asks Bank A for a $300,000 mortgage.       │
+│ 2. Bank A keeps $1,000 reserve, lends $9,000.          │ 2. Bank A evaluates creditworthiness, approves loan.   │
+│ 3. Borrower deposits $9,000 in Bank B.                 │ 3. Bank A types +$300,000 into borrower's deposit.     │
+│ 4. "Money multiplier" repeats to expand money supply.   │ 4. **$300,000 of new money is instantly created.**    │
+│ ──► Deposits create loans; savings precede lending.     │ ──► **Loans create deposits; lending precedes funding.**│
+└────────────────────────────────────────────────────────┴────────────────────────────────────────────────────────┘
+```
+
+---
+
+### B. Step-by-Step Accounting Walkthrough (T-Accounts)
+
+To understand exactly how money is created, transferred, and destroyed, consider a concrete numerical scenario where **Alice** borrows **\$300,000** from **Bank A** to buy a home from **Bob** (who holds an account at **Bank B**).
+
+#### Step 1: Loan Origination (Money Created *Ex Nihilo*)
+When Bank A approves Alice’s mortgage, it does **not** transfer cash from someone else's account. It simply expands both sides of its balance sheet:
+* **Asset:** Bank A creates a new financial asset: *"Loan contract owed by Alice"* ($+\$300,000$).
+* **Liability:** Bank A creates a new financial liability: *"Alice's Demand Deposit"* ($+\$300,000$).
+
+```
+                      BANK A BALANCE SHEET (Step 1: Loan Approved)
+            ASSETS (+)                                    LIABILITIES (+)
+┌──────────────────────────────────────┐        ┌──────────────────────────────────────┐
+│  + $300,000 Loan to Alice            │        │  + $300,000 Alice's Deposit Account  │
+│  (Bank's legal claim on Alice)       │        │  (Bank's IOU to Alice / NEW MONEY)   │
+└──────────────────────────────────────┘        └──────────────────────────────────────┘
+```
+> **Net Economic Effect:** The broad money supply ($M_1/M_2$) in the economy has increased by **\$300,000 in this exact millisecond**.
+
+---
+
+#### Step 2: The Payment & Interbank Settlement (Why Reserves Matter)
+Alice transfers the \$300,000 to Bob to purchase the house. Because Bob banks with **Bank B**, Bank A must settle the payment with Bank B.
+
+Commercial banks cannot pay each other with commercial bank deposits; they settle interbank debts using **Central Bank Reserves** (electronic tokens held at the Federal Reserve / Bank of England):
+
+1. Alice's deposit at Bank A drops to \$0 ($-\$300,000$).
+2. Bank A transfers \$300,000 of **Central Bank Reserves** to Bank B via the central bank clearing network (Fedwire / CHAPS).
+3. Bank B credits Bob's checking account with +\$300,000.
+
+```
+                      BANK A BALANCE SHEET (Step 2: After Transfer)
+            ASSETS                                        LIABILITIES
+┌──────────────────────────────────────┐        ┌──────────────────────────────────────┐
+│  + $300,000 Loan to Alice            │        │  - $300,000 Alice's Deposit Account  │
+│  - $300,000 Central Bank Reserves    │        │  (Alice's balance returns to $0)     │
+└──────────────────────────────────────┘        └──────────────────────────────────────┘
+
+                      BANK B BALANCE SHEET (Step 2: After Transfer)
+            ASSETS                                        LIABILITIES
+┌──────────────────────────────────────┐        ┌──────────────────────────────────────┐
+│  + $300,000 Central Bank Reserves    │        │  + $300,000 Bob's Deposit Account    │
+│  (Received from Bank A)              │        │  (Bob's spending money / NEW MONEY)  │
+└──────────────────────────────────────┘        └──────────────────────────────────────┘
+```
+> **Net Economic Effect:** Bank A now holds a long-term interest-bearing loan asset, Bank B holds central bank liquid reserves, and Bob possesses \$300,000 of newly created bank money ready to be spent across the economy.
+
+---
+
+#### Step 3: Loan Repayment (Money Destruction)
+What happens as Alice works, earns money, and pays down her mortgage principal?
+
+As Alice transfers deposits back to Bank A to pay off her loan:
+* Alice's deposit account decreases ($-\$300,000$).
+* Bank A's loan asset decreases ($-\$300,000$).
+
+```
+                      BANK A BALANCE SHEET (Step 3: Loan Fully Repaid)
+            ASSETS (-)                                    LIABILITIES (-)
+┌──────────────────────────────────────┐        ┌──────────────────────────────────────┐
+│  - $300,000 Loan to Alice            │        │  - $300,000 Alice's Deposit Account  │
+│  (Asset extinguished)                │        │  (Deposit extinguished / DESTROYED) │
+└──────────────────────────────────────┘        └──────────────────────────────────────┘
+```
+> *"Just as taking out a loan creates money, the repayment of bank loans destroys money."*  
+> — Bank of England (2014)
+
+---
+
+### C. What Limits Bank Money Creation? (Why Banks Cannot Create Infinite Money)
+
+If commercial banks can create money simply by typing on a keyboard, why don't they create trillions of dollars in loans overnight?
+
+Commercial banks face **four hard economic constraints**:
+
+```
+                               4 CONSTRAINTS ON MONEY CREATION
+                                              │
+         ┌───────────────────────────┬────────┴──────────────────┬───────────────────────────┐
+         ▼                           ▼                           ▼                           ▼
+ ┌───────────────┐           ┌───────────────┐           ┌───────────────┐           ┌───────────────┐
+ │ 1. Loss of    │           │ 2. Borrower   │           │ 3. Regulatory │           │ 4. Central    │
+ │    Reserves   │           │    Demand &   │           │    Capital    │           │    Bank Rates │
+ │ (Interbank    │           │    Credit     │           │    (Basel     │           │ (Policy Rate  │
+ │  Competition) │           │    Risk       │           │    Buffers)   │           │  Cost)        │
+ └───────────────┘           └───────────────┘           └───────────────┘           └───────────────┘
+```
+
+1. **Interbank Competition & Reserve Drain:** If Bank A expands lending far faster than other banks, its customers will spend money at other banks, draining Bank A of all its Central Bank Reserves. Bank A would have to borrow expensive emergency reserves or face insolvency.
+2. **Credit Risk & Profitability:** Banks only lend when they expect the borrower to repay principal and interest. If a bank makes bad loans, defaults wipe out the bank's own shareholders' equity.
+3. **Regulatory Capital Adequacy (Basel III/IV):** International regulations require banks to maintain a minimum buffer of equity capital (e.g., 8–12% of risk-weighted assets). A bank cannot expand its loan book without having enough equity capital to absorb potential losses.
+4. **Central Bank Monetary Policy:** Central banks do not set the *quantity* of money directly; they set the **price of reserves (the policy interest rate)**. By raising or lowering interest rates, the central bank influences the interest rates commercial banks charge, which directly controls the total public demand for new loans.
 
 ---
 
